@@ -1,0 +1,18 @@
+LDR-LCD - TASK1
+https://wokwi.com/projects/417987533922245633
+
+ULTRASONIC - TASK2
+https://wokwi.com/projects/417988464201132033
+
+LCD - TASK5
+https://wokwi.com/projects/417991754291393537
+
+MPU6050-TASK-6
+https://wokwi.com/projects/416800146063462401
+
+
+gismo-firebase:
+realtime database > firebase url (firebase auth - without https)
+
+project>project setting>service acc> database services > secrets (firebase api key)
+
